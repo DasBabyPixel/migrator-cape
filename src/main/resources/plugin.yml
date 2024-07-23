@@ -1,0 +1,4 @@
+name: MigratorCape
+version: '1.0'
+main: de.dasbabypixel.migratorcape.MigratorCape
+api-version: '1.21'
